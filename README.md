@@ -1,2 +1,4 @@
 # Boutique Ado
-### A ecommerce site currently being developed.
+### A ecommerce built with Code Insitute
+
+Live Link: https://mxhaib-boutique-ado.herokuapp.com/
